@@ -17,6 +17,6 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-        assertEquals( "The message is not right", app.get_message(), "Hello World !");
+        assertEquals( "The message is not right", app.get_message(), "Hello you !");
     }
 }
